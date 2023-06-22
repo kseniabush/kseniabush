@@ -1,0 +1,24 @@
+{
+    "demo": "",
+    "welcome": "Welcome to the application, %name%!",
+    "login": "Log in",
+    "sign_up": "Sign up",
+    "origin": "Where are you from?",
+    "translation": "",
+    "apples": {
+        "one": "",
+        "other": ""
+    },
+    "tomato": {
+        "one": "",
+        "other": "I saw tomato"
+    },
+    "main_menu": "Main menu screenshot",
+    "careers": "Careers",
+    "pricing": "Pricing",
+    "callback": "Callback function",
+    "some_key": "AI-powered neural machine translation",
+    "new_key": "Seedrs welcomes you",
+    "test_key": "Some test",
+    "test_key2": "Some other TEST"
+}

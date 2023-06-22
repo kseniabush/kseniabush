@@ -1,0 +1,15 @@
+{
+    "menu": {
+        "en": "Anglais",
+        "ru": "Russie",
+        "home": "Accueil",
+        "about": "A propos de"
+    },
+    "main": {
+        "welcome": "Bonjour de la part de {company} !",
+        "new_message": "aucun message | un message | {count} messages"
+    },
+    "about": {
+        "welcome": "Bienvenue à la page \"À propos\" !"
+    }
+}
