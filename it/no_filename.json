@@ -1,0 +1,24 @@
+{
+    "demo": "",
+    "welcome": "Benvenuto nell'applicazione, %name%!",
+    "login": "Accedi",
+    "sign_up": "Iscriviti",
+    "origin": "Da dove vieni?",
+    "translation": "",
+    "apples": {
+        "one": "",
+        "other": ""
+    },
+    "tomato": {
+        "one": "",
+        "other": "Ho visto il pomodoro"
+    },
+    "main_menu": "Schermata del menu principale",
+    "careers": "Carriera",
+    "pricing": "Prezzi",
+    "callback": "Funzione di callback",
+    "some_key": "Traduzione automatica neurale potenziata dall'intelligenza artificiale",
+    "new_key": "Seedrs vi dà il benvenuto",
+    "test_key": "Alcuni test",
+    "test_key2": "Altri TEST"
+}

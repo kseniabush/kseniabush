@@ -1,0 +1,24 @@
+{
+    "demo": "",
+    "welcome": "Willkommen bei der Anwendung!%name%",
+    "login": "Log in",
+    "sign_up": "Sign up",
+    "origin": "Woher kommst du?",
+    "translation": "",
+    "apples": {
+        "one": "",
+        "other": ""
+    },
+    "tomato": {
+        "one": "",
+        "other": "Ich sah Tomaten"
+    },
+    "main_menu": "Bildschirmfoto des Hauptmenüs",
+    "careers": "Karriere",
+    "pricing": "Preisgestaltung",
+    "callback": "Rückruf-Funktion",
+    "some_key": "KI-gestützte neuronale Maschinenübersetzung",
+    "new_key": "sddres",
+    "test_key": "Einige Tests",
+    "test_key2": "Einige andere TEST"
+}
