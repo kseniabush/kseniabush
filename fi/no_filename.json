@@ -1,0 +1,24 @@
+{
+    "demo": "",
+    "welcome": "Tervetuloa Lokalisiin!%name%",
+    "login": "Kirjaudu sisään",
+    "sign_up": "Sign up",
+    "origin": "Mistä olet kotoisin?",
+    "translation": "",
+    "apples": {
+        "one": "",
+        "other": ""
+    },
+    "tomato": {
+        "one": "",
+        "other": "Näin tomaattia"
+    },
+    "main_menu": "Päävalikon kuvakaappaus",
+    "careers": "Työurat",
+    "pricing": "Hinnoittelu",
+    "callback": "Takaisinkutsutoiminto",
+    "some_key": "Tekoälykäyttöinen neuraalinen konekääntäminen",
+    "new_key": "Seedrs toivottaa sinut tervetulleeksi",
+    "test_key": "Joitakin testejä",
+    "test_key2": "Jotkut muut TEST"
+}

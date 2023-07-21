@@ -1,0 +1,15 @@
+{
+    "menu": {
+        "en": "Englanti",
+        "ru": "Venäläinen",
+        "home": "Etusivu",
+        "about": "Tietoja"
+    },
+    "main": {
+        "welcome": "Hei {yritys}!",
+        "new_message": "ei viestejä | yksi viesti | {count} viestejä"
+    },
+    "about": {
+        "welcome": "Tervetuloa Tietoja-sivulle!"
+    }
+}
